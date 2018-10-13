@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="activation-1.0.2 (2)">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/lib/activation-1.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="jar://$PROJECT_DIR$/src/lib/activation-1.0.2.jar!/" recursive="false" />
+  </library>
+</component>
